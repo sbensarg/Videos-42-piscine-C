@@ -7,12 +7,12 @@ Filesystem : https://cdn.intra.42.fr/video/video/530/piscine_C_-_J00_-_1_3.mp4
 Touch cat : https://cdn.intra.42.fr/video/video/532/piscine_C_-_J00_-_2.mp4
 ## Piscine C - Day 01
 
-Echo cat more : https://cdn.intra.42.fr/video/video/533/piscine_C_-_J01_-_0.mp4
-Head tail grep : https://cdn.intra.42.fr/video/video/534/piscine_C_-_J01_-_1.mp4
-Les redirections : https://cdn.intra.42.fr/video/video/535/piscine_C_-_J01_-_2.mp4
-Sort cut : https://cdn.intra.42.fr/video/video/536/piscine_C_-_J01_-_3.mp4
-wc ifconfig bc find env export : https://cdn.intra.42.fr/video/video/537/piscine_C_-_J01_-_4.mp4
-stdout/stderr : https://cdn.intra.42.fr/video/video/538/piscine_C_-_J01_-_5.mp4
+Echo cat more : https://cdn.intra.42.fr/video/video/533/piscine_C_-_J01_-_0.mp4\n
+Head tail grep : https://cdn.intra.42.fr/video/video/534/piscine_C_-_J01_-_1.mp4\n
+Les redirections : https://cdn.intra.42.fr/video/video/535/piscine_C_-_J01_-_2.mp4\n
+Sort cut : https://cdn.intra.42.fr/video/video/536/piscine_C_-_J01_-_3.mp4\n
+wc ifconfig bc find env export : https://cdn.intra.42.fr/video/video/537/piscine_C_-_J01_-_4.mp4\n
+stdout/stderr : https://cdn.intra.42.fr/video/video/538/piscine_C_-_J01_-_5.mp4\n
 
 ## Piscine C - Day 02
 
